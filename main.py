@@ -1,8 +1,8 @@
 from turtle import Screen
 import time
 from snake import Snake
-from food import Food
-from score import Score
+from snakefood import Food
+from snakescore import Score
 import random
 y=Screen()
 y.setup(width=500,height=500)
